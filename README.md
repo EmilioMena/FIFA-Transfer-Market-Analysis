@@ -1,10 +1,10 @@
 # FIFA19-Transfer-Market-Analysis
 
-This Notebook contains my end-to-end ML analysis of the FIFA transfer market. I followed the complete ML cycle including 
+This Notebook contains an end-to-end process of prediciting market prices in FIFA transactions. I followed the complete ML cycle including 
 - Data Engineering
 - Exploratory Data Analysis
 - Feature Engineering
-- Model Creation
+- Training
 - Model Evaluation
 
 Hope you enjoy! [Link to Notebook](https://nbviewer.jupyter.org/github/EmilioMena/FIFA19-Transfer-Market-Analysis/blob/master/Fifa%20%2719%20Final.ipynb)
